@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenBasedAuthenticationWithOwin", "TokenBasedAuthenticationWithOwin\TokenBasedAuthenticationWithOwin.csproj", "{096FF8EF-F6D3-4402-ABD4-1DE311D99AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096FF8EF-F6D3-4402-ABD4-1DE311D99AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096FF8EF-F6D3-4402-ABD4-1DE311D99AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096FF8EF-F6D3-4402-ABD4-1DE311D99AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096FF8EF-F6D3-4402-ABD4-1DE311D99AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B5E6E3-C615-4664-BF60-B12FC4A20B3B}
+	EndGlobalSection
+EndGlobal
